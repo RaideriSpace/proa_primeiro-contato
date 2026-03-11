@@ -1,14 +1,17 @@
 /* Estilo para o corpo da página */
 body {
     font-family: Arial, sans-serif;
+    background-color: pink;
     background-image: url(https://images.wallpapersden.com/image/download/frieren-hd-frieren-beyond-journey-s-end_bmdoamyUmZqaraWkpJRpamVlrWdsa2Y.jpg);
     background-size: cover;
     margin: 0;
-    padding: 15px;
+    padding: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+
+    font-size: 2rem;
 }
 
 /* Estilo para o contêiner principal da ficha */
